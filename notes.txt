@@ -1,0 +1,12 @@
+https://golang.org/
+https://golang.org/doc/
+https://golang.org/doc/effective_go.html - Горе долу тук са описани предимствата на Go спрямо останалите езици
+https://forum.golangbridge.org/
+https://blog.gopheracademy.com/gophers-slack-community/
+https://play.golang.org/ - Вградена конзола за тестове
+Основното предимство на Go е в мултитрединга.
+Имат вградени Concurrency променливи
+
+Всички Go апликации са с packages
+import е мястото, в което се вграждат библитеките
+fmt е библиотека за форматиране и принтене на стрингове
